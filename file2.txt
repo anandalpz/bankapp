@@ -1,1 +1,2 @@
-file2 contents
+file2 contents 
+updating content
